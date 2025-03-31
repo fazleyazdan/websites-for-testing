@@ -13,5 +13,6 @@
 - [Parabank](https://parabank.parasoft.com/parabank/admin.htm) - Bank test site for exploring SOAP, WSDL, WADL web services
 - [Sweet Shop](https://sweetshop.netlify.app/) - Intentionally broken store used for technical testing
 - [Coffe Cart](https://coffee-cart.app/) - A simple coffee ordering app to practice testing
+- [Black Box Puzzles](https://blackboxpuzzles.workroomprds.com/) - Collection of simple puzzles that encourage exploratory testing
 
 
