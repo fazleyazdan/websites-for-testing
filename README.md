@@ -2,6 +2,7 @@
 
 - [Web Testing](#webtest)
 - [Mobile Testing](#mobtest)
+- [Automation Testing](#autotest)
 
 
 <a id="webtest"></a>
