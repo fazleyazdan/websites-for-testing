@@ -3,6 +3,7 @@
 - [Web Testing](#webtest)
 - [Mobile Testing](#mobtest)
 - [Automation Testing](#autotest)
+- [API Testing](#apitest)
 
 
 <a id="webtest"></a>
