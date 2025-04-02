@@ -20,3 +20,6 @@
 
 <a id="mobtest"></a>
 
+<a id="autotest"></a>
+
+
