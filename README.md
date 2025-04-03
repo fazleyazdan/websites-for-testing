@@ -4,6 +4,7 @@
 - [Mobile Testing](#mobtest)
 - [Automation Testing](#autotest)
 - [API Testing](#apitest)
+- [Security Testing](#securetest)
 
 
 <a id="webtest"></a>
