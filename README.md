@@ -11,6 +11,7 @@
 
 ### Web Testing
 - [Academy Bugs](https://academybugs.com/find-bugs/) - Explore a practice test site that has 25 real bugs planted inside
+- [Selector Hub](https://selectorshub.com/xpath-practice-page/) - XPath Practice Page
 - [UI Testing](http://uitestingplayground.com/) - Playground for UI Testing
 - [Orange HRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) - Open source HR Demo site with lots of functionalities
 - [Todo List](https://todolist.james.am/#/) - Todo list having bugs
@@ -19,6 +20,7 @@
 - [Sweet Shop](https://sweetshop.netlify.app/) - Intentionally broken store used for technical testing
 - [Coffe Cart](https://coffee-cart.app/) - A simple coffee ordering app to practice testing
 - [Black Box Puzzles](https://blackboxpuzzles.workroomprds.com/) - Collection of simple puzzles that encourage exploratory testing
+
 
 
 
