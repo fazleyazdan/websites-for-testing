@@ -23,6 +23,7 @@
 <a id="mobtest"></a>
 
 ### Mobile Testing
+- [(DVIA) Damn Vulnerable iOS App](https://github.com/prateek147/DVIA-v2) - DVIA is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals
 - [SauceLabs Sample Apps](https://github.com/saucelabs/sample-app-mobile) - Github repo that contains mobile apps that can be used for automation practice
 
 
