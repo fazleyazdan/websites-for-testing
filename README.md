@@ -22,6 +22,10 @@
 
 <a id="mobtest"></a>
 
+- [SauceLabs Sample Apps](https://github.com/saucelabs/sample-app-mobile) - Github repo that contains mobile apps that can be used for automation practice
+
+
+
 <a id="autotest"></a>
 
 <a id="securetest"></a>
