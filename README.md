@@ -26,7 +26,6 @@
 - [Travel Agileway](http://travel.agileway.net/login) - A site worth exploring along with a series of [automated checks](https://github.com/testwisely/agiletravel-ui-tests)
 
 
-
 <a id="mobtest"></a>
 
 ### Mobile Testing
