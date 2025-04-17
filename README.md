@@ -22,7 +22,7 @@
 - [Black Box Puzzles](https://blackboxpuzzles.workroomprds.com/) - Collection of simple puzzles that encourage exploratory testing
 - [Presta Shop](https://demo.prestashop.com/#/en/front) - E-commerce site for testing
 - [Polymer Shop](https://shop.polymer-project.org/) - E-commerce site
-
+- [Magento eCommerce](https://magento.softwaretestingboard.com) - E-commerce site
 
 
 
