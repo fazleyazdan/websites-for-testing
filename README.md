@@ -21,6 +21,7 @@
 - [Coffe Cart](https://coffee-cart.app/) - A simple coffee ordering app to practice testing
 - [Black Box Puzzles](https://blackboxpuzzles.workroomprds.com/) - Collection of simple puzzles that encourage exploratory testing
 - [Presta Shop](https://demo.prestashop.com/#/en/front) - E-commerce site for testing
+- [Polymer Shop](https://shop.polymer-project.org/) - E-commerce site
 
 
 
