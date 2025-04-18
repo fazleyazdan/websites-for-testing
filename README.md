@@ -26,6 +26,7 @@
 - [Magento eCommerce](https://magento.softwaretestingboard.com) - E-commerce site
 - [Travel Agileway](http://travel.agileway.net/login) - A site worth exploring along with a series of [automated checks](https://github.com/testwisely/agiletravel-ui-tests)
 - [SAP Demo App Catalogue](https://ui5.sap.com/#/demoapps) - SAP UI5 Demo Apps
+- [BugBug Demo SaaS App](https://demo-saas.bugbug.io/) - A SaaS app designed to practice building automated tests for the most common SaaS testing scenarios.
 
 
 <a id="mobtest"></a>
