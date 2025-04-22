@@ -39,7 +39,7 @@
 <a id="autotest"></a>
 
 - [Restful Booker Platform](https://automationintesting.online) - JS front end with Java Backend endpoints [repo](https://github.com/mwinteringham/restful-booker-platform). Endpoints also have swagger pages, ex: [auth](https://automationintesting.online/auth/swagger-ui/index.html#/)
-
+- [QA Playground](https://qaplayground.dev/) - A handy place for QA engineers to focus their test automation frameworks on specific parts instead of the entire web application
 
 <a id="securetest"></a>
 
