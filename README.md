@@ -38,6 +38,8 @@
 
 <a id="autotest"></a>
 
+- [Restful Booker Platform](https://automationintesting.online) - JS front end with Java Backend endpoints [repo](https://github.com/mwinteringham/restful-booker-platform). Endpoints also have swagger pages, ex: [auth](https://automationintesting.online/auth/swagger-ui/index.html#/)
+
 
 <a id="securetest"></a>
 
