@@ -28,7 +28,7 @@
 - [SAP Demo App Catalogue](https://ui5.sap.com/#/demoapps) - SAP UI5 Demo Apps
 - [BugBug Demo SaaS App](https://demo-saas.bugbug.io/) - A SaaS app designed to practice building automated tests for the most common SaaS testing scenarios.
 
-###
+##
 
 <a id="mobtest"></a>
 
@@ -36,7 +36,7 @@
 - [(DVIA) Damn Vulnerable iOS App](https://github.com/prateek147/DVIA-v2) - DVIA is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals
 - [SauceLabs Sample Apps](https://github.com/saucelabs/sample-app-mobile) - Github repo that contains mobile apps that can be used for automation practice
 
-###
+##
 
 <a id="autotest"></a>
 
