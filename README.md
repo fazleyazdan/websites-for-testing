@@ -48,6 +48,7 @@
 - [QA Automation Practice](https://qa-practice.netlify.app/) - App that has HTML and REST API and GraphQL endpoints for practicing
 - [Practice Software Testing](https://practicesoftwaretesting.com/) - Modern Demo site for checkout experience, Created by [Roy De Kleijn](https://twitter.com/TheWebTester)
     - [Practice Software Testing API Swagger Docs](https://api.practicesoftwaretesting.com/api/documentation)
+    - [Twitter Thread with different options](https://twitter.com/TheWebTester/status/1593906285300400128)
 
 <a id="securetest"></a>
 
