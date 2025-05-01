@@ -52,6 +52,7 @@
     - [Practice Software Testing API Swagger Docs](https://api.practicesoftwaretesting.com/api/documentation)
     - [Twitter Thread with different options](https://twitter.com/TheWebTester/status/1593906285300400128)
 - [UI Test Automation Playground](http://www.uitestingplayground.com/) - Different automation scenarios appearing in modern web applications
+- [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html) - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
 
 <a id="securetest"></a>
 
