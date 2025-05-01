@@ -50,7 +50,7 @@
 - [Practice Software Testing](https://practicesoftwaretesting.com/) - Modern Demo site for checkout experience, Created by [Roy De Kleijn](https://twitter.com/TheWebTester)
     - [Practice Software Testing API Swagger Docs](https://api.practicesoftwaretesting.com/api/documentation)
     - [Twitter Thread with different options](https://twitter.com/TheWebTester/status/1593906285300400128)
-
+- [UI Test Automation Playground](http://www.uitestingplayground.com/) - Different automation scenarios appearing in modern web applications
 
 <a id="securetest"></a>
 
