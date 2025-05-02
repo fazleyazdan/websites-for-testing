@@ -44,6 +44,7 @@
 
 - [Sauce Demo](https://www.saucedemo.com/) - Online shopping site with pre-configured logins that change system behavior.
 - [Lambdatest's Selenium Playground](https://www.lambdatest.com/selenium-playground/)
+- [The Internet](http://the-internet.herokuapp.com/) - collection of common test automation scenarios including hard to automate situations; nested frames, shadow DOM, keypresses, and complicated DOMs.
 - [Restful Booker Platform](https://automationintesting.online) - JS front end with Java Backend endpoints [repo](https://github.com/mwinteringham/restful-booker-platform). Endpoints also have swagger pages, ex: [auth](https://automationintesting.online/auth/swagger-ui/index.html#/)
 - [QA Playground](https://qaplayground.dev/) - A handy place for QA engineers to focus their test automation frameworks on specific parts instead of the entire web application
 - [Commit Quality - Practice Site](https://commitquality.com/) - Commit Quality has been creating High Quality Playwright Automation [Youtube Videos](https://www.youtube.com/@commitquality)
