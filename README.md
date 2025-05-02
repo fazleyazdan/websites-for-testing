@@ -56,6 +56,7 @@
 - [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html) - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
 - [BookCart](https://bookcart.azurewebsites.net/) - E-commerce online bookstore which which includes [swagger docs](https://bookcart.azurewebsites.net/swagger/index.html) for API test [github](https://github.com/AnkitSharma-007/bookcart)
 - [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/) - Small example bank website written in Angular.
+- [Automate Now Sandbox](https://automatenow.io/sandbox-automation-testing-practice-website/) - Small single page site for practicing interactions with typical UI controls.
 
 <a id="securetest"></a>
 
