@@ -55,6 +55,7 @@
 - [UI Test Automation Playground](http://www.uitestingplayground.com/) - Different automation scenarios appearing in modern web applications
 - [Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html) - Calculator that you can easily interact with to exercise test coverage, as there are 9 'builds' that have different bugs? Can your automated tests find them all?
 - [BookCart](https://bookcart.azurewebsites.net/) - E-commerce online bookstore which which includes [swagger docs](https://bookcart.azurewebsites.net/swagger/index.html) for API test [github](https://github.com/AnkitSharma-007/bookcart)
+- [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/) - Small example bank website written in Angular.
 
 <a id="securetest"></a>
 
