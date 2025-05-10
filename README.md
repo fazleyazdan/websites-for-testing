@@ -66,4 +66,4 @@
 
 - [DemoBlaze](https://demoblaze.com/) - See About Us for a Walk through of the site and how to automate against it.
 - [Simple Travel Agency](https://blazedemo.com/index.php) - BlazeMeter demo site for performance testing.
-
+- [Pet Store Web](https://petstore.octoperf.com/actions/Catalog.action) - Pet store for performance testing.
