@@ -5,6 +5,7 @@
 - [Automation Testing](#autotest)
 - [API Testing](#apitest)
 - [Security Testing](#securetest)
+- [Performance Testing](#perftest)
 
 
 <a id="webtest"></a>
