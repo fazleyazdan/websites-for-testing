@@ -61,6 +61,7 @@
 - [Iframe Search](https://eviltester.github.io/TestingApp/apps/iframe-search/iframe-search.html) - for Iframe testing.
 - [Automation Camp](https://play2.automationcamp.ir/) - A playground for practicing automation skills.
 - [Boozang Lab](https://thelab.boozang.com/) - Website to practice test automation skills.
+- [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 
 <a id="securetest"></a>
 
