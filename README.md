@@ -60,6 +60,7 @@
 - [Automate Now Sandbox](https://automatenow.io/sandbox-automation-testing-practice-website/) - Small single page site for practicing interactions with typical UI controls.
 - [Iframe Search](https://eviltester.github.io/TestingApp/apps/iframe-search/iframe-search.html) - for Iframe testing.
 - [Automation Camp](https://play2.automationcamp.ir/) - A playground for practicing automation skills.
+- [Boozang Lab](https://thelab.boozang.com/) - Website to practice test automation skills.
 
 <a id="securetest"></a>
 
