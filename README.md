@@ -72,6 +72,7 @@
 ### Security Testing
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - Modern Web app that is filled with hacking challenges and vulnerabilities, can be run locally via docker.
 - [OWASP Vulnerable Web Applications Directory](https://owasp.org/www-project-vulnerable-web-applications-directory/) - This is a list of other vulnerable web applications that can be used for testing.
+- [Gin and Juice Shop](https://ginandjuice.shop/) - A modern web app that is filled with hacking challenges and vulnerabilities by PortSwigger
 
 ##
 
