@@ -70,7 +70,7 @@
 <a id="securetest"></a>
 
 ### Security Testing
-
+- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - Modern Web app that is filled with hacking challenges and vulnerabilities, can be run locally via docker.
 
 ##
 
