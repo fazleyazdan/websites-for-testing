@@ -62,6 +62,7 @@
 - [Automation Camp](https://play2.automationcamp.ir/) - A playground for practicing automation skills.
 - [Boozang Lab](https://thelab.boozang.com/) - Website to practice test automation skills.
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
+- [Automation Bookstore](https://automationbookstore.dev/) - Responsive web app for practicing automation skills, with search.
 
 <a id="securetest"></a>
 
