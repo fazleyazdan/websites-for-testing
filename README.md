@@ -3,7 +3,6 @@
 - [Web Testing](#webtest)
 - [Mobile Testing](#mobtest)
 - [Automation Testing](#autotest)
-- [API Testing](#apitest)
 - [Security Testing](#securetest)
 - [Performance Testing](#perftest)
 - [API Testing](#apitest)
