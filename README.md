@@ -78,6 +78,7 @@
 - [tryhackme.com](https://tryhackme.com/) - Collection of guides and challenges to cyber security skills through the brows der (free and paid options).
 - [Damn Vulnerable GraphQL Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
 - [Firing Range](https://public-firing-range.appspot.com/) - Hosted Site with multiple application security issues.
+- [Zero Bank](http://zero.webappsecurity.com/) - Demo banking website filled with security vulnerabilities.
 
 ##
 
