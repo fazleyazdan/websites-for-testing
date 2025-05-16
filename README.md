@@ -107,3 +107,4 @@
 - [Restful-Booker](https://restful-booker.herokuapp.com/) - API that emulates booking a room, with authentication and good documentation.
 - [Swagger Petstore](https://petstore.swagger.io/) - API with Swagger UI front end simulating a pet store.
 - [Go REST](https://gorest.co.in/) - GraphQL and REST API for Testing and Prototyping includes OAuth2 authentication
+- [HTTP and Websocket APIs K6](https://test-api.k6.io/) - API for testing basic and jwt authentication.
