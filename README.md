@@ -102,3 +102,5 @@
 <a id="apitest"></a>
 
 ### API Testing
+
+- [Restful-Booker](https://restful-booker.herokuapp.com/) - API that emulates booking a room, with authentication and good documentation.
