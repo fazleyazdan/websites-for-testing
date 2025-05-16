@@ -103,5 +103,6 @@
 
 ### API Testing
 
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/) - API for testing and prototyping.
 - [Restful-Booker](https://restful-booker.herokuapp.com/) - API that emulates booking a room, with authentication and good documentation.
 - [Swagger Petstore](https://petstore.swagger.io/) - API with Swagger UI front end simulating a pet store.
