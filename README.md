@@ -112,4 +112,5 @@
 - [Automation Exercise API List](https://www.automationexercise.com/api_list) - API backend and test case examples to practice automation. Built by [Arjun Thakur](https://www.linkedin.com/in/arjun-thakur-36144b205/).
 - [The Cat API](https://thecatapi.com/) - The Cat API - Cats as a Service.
 - [FakeRestAPI](https://fakerestapi.azurewebsites.net/index.html)
-
+- [Big List of Public APIs](https://github.com/public-apis/public-apis/blob/master/README.md)
+- [Best Buy API Playground](https://github.com/BestBuy/api-playground) - must run on your local machine.
