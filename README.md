@@ -116,3 +116,4 @@
 - [Best Buy API Playground](https://github.com/BestBuy/api-playground) - must run on your local machine.
 - [Rick and Morty API](https://rickandmortyapi.com/graphql) - Graphql API with [Docs](https://rickandmortyapi.com/documentation/#graphql)
 - [randomuser.me](https://randomuser.me/) - API that generates random user data.
+- [httpbin](https://httpbin.org/) - Simple HTTP Request & Response service.
