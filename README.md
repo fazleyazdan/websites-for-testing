@@ -65,6 +65,7 @@
 - [Boozang Lab](https://thelab.boozang.com/) - Website to practice test automation skills.
 - [Pulper is a simple CRUD (Create, Read, Update, Delete) application for managing a pulp book and magazine collection](https://thepulper.herokuapp.com/apps/pulp/)
 - [Automation Bookstore](https://automationbookstore.dev/) - Responsive web app for practicing automation skills, with search.
+- [GoodDeal](https://delta-qa.com/playground/) - Demo sportswear store for end-to-end and visual regression practice: search and filters, a size required before adding to the cart, promo code, checkout with accepted and declined test cards, a custom country list (no native select) and demo-account sign-in. [Example tests](https://github.com/TheMalloum/gooddeal-practice-tests) in Playwright, Cypress and Selenium.
 
 ##
 
